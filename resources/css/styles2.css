@@ -1,0 +1,60 @@
+.input-group
+{
+  width: 500px;
+  background: #fff;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #fff;
+  color: #222;
+  font-size: 18px;
+  margin-bottom: 16px;
+  padding-left: 100px;
+  margin-left: 60px;
+}
+
+.text-area
+{
+  width: 500px;
+  height: 200px;
+  background: #fff;
+  outline: 1px solid #fff;
+  border: 1px solid #fff;
+  color: #222;
+  font-size: 18px;
+  margin-bottom: 16px;
+  padding-left: 0%;
+  
+}
+
+
+.contact-button
+{
+  width: 200px;
+  background: #b58e3e;
+  outline: 1px solid #fff;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 16px;
+  
+}
+
+
+.form
+{
+  margin-top: 50px;
+  transition: all 4s ease-in-out;
+  text-align: center;
+
+
+}
+
+body
+{
+  background-color:#436e67;
+  transition: all 4s ease-in-out;
+  text-align: center;
+
+
+}
+
